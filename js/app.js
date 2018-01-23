@@ -1,3 +1,4 @@
+// traemos elementos
 var buttonSingUp = $('.sign-up');
 
 function loadPage() {
