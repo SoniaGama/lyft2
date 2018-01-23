@@ -1,0 +1,27 @@
+  /* background: linear-gradient(#76278F, #2B1E66); */
+  button {
+    margin: 10px;
+  }
+
+.intro{
+  background: linear-gradient(#65009c, #c70095);
+}
+
+.img-logo {
+   width: 30%;
+}
+
+.height100 {
+  height: 100vh;
+}
+
+.background-image {
+  background-image: url(../assets/images/lyft.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.width100 {
+  width: 100%;
+}
